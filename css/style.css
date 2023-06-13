@@ -284,18 +284,6 @@ footer nav a {
     width: 100%;
 }
 
-
-/* LICENCE */
-#licence {
-    display: block;
-    text-align: center;
-    padding: 25px;
-}
-
-#licence img {
-    width: 50px;
-}
-
 @media screen and (min-width: 1024px) {
     header nav{
         padding: 5%;
